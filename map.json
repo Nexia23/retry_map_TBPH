@@ -61,7 +61,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"group_meeting"
+                 "value":"group-meeting"
                 }, 
                 {
                  "name":"jitsiTrigger",

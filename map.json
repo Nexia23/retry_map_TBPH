@@ -299,6 +299,24 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":38,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":52,
                  "properties":[
                         {
@@ -407,6 +425,15 @@
                         }]
                 }, 
                 {
+                 "id":162,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":168,
                  "properties":[
                         {
@@ -493,17 +520,30 @@
                         }]
                 }, 
                 {
+                 "id":177,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":178,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":198,
                  "properties":[
                         {
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Coffee Break"
                         }]
                 }, 
                 {
@@ -516,12 +556,21 @@
                         }]
                 }, 
                 {
-                 "id":214,
+                 "id":225,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Coffe Break"
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":226,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
